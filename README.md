@@ -1,8 +1,8 @@
-# Microbiome-Lab-at-KU-FOOD (MILAF)
+# Microbiome_Lab_at_FOOD-KU (MILAF)
 
 Introduction
 
-DIAMOND is a sequence aligner for protein and translated DNA searches, designed for high performance analysis of big sequence data. The key features are:
+MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses, which may serve the basis for attacking microbiome studies within BSc and MSc projects at FOOD-KU. The key features are:
 
     Pairwise alignment of proteins and translated DNA at 100x-20,000x speed of BLAST.
     Frameshift alignments for long read analysis.
