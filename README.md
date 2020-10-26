@@ -38,13 +38,15 @@ https://academic.oup.com/femsec/article/90/3/543/536864
 
 # Developers
 
-    Josue L. Castro-Mejia (Postdoc)         – jcame@food.ku.dk 
-    Yan Hui (PhD Student)                   –
-    Rasmus R. Jakobsen (PhD Student)        –
-    Yichang Zhang (PhD Student)             –  
-    Lukasz Krych (Associated Professor)     – krych@food.ku.dk 
-    Dennis S. Nielsen (Professor)           –
+   Josue L. Castro-Mejia (Postdoc)         – jcame@food.ku.dk 
+   Yan Hui (PhD Student)                   –
+   Rasmus R. Jakobsen (PhD Student)        –
+   Yichang Zhang (PhD Student)             –  
+   Lukasz Krych (Associated Professor)     – krych@food.ku.dk 
+   Dennis S. Nielsen (Professor)           –
     
+
+
 
 
 
