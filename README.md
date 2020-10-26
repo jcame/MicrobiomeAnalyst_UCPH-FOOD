@@ -2,11 +2,42 @@
 
 Introduction
 
-MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses, which may serve the basis for attacking microbiome studies within BSc and MSc projects at FOOD-KU. The key features are:
+MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses. 
+We think  that with this repository we can provide the minimun set of tools needed to start and explore microbiome datasets within BSc and MSc projects at FOOD-KU and collaborators. The key features of MILAF are:
 
-    Pairwise alignment of proteins and translated DNA at 100x-20,000x speed of BLAST.
-    Frameshift alignments for long read analysis.
-    Low resource requirements and suitable for running on standard desktops or laptops.
-    Various output formats, including BLAST pairwise, tabular and XML, as well as taxonomic classification.
+    Alpha-Diversity analysis – observed species, Shannon index, Chao1 (incl. t-test, Kruskal-Wallis)
+    Beta-diversity analysis – Phylogenetic and non-phylogenetic | weighted and unweighted distances (incl. ANOSIM, ADONIS, PERMANOVA, db-RDA)
+    Variable selection – Multiple t-test, multiple Kruskal-Wallis, Linear Discriminant Analysis (LDA), univariate correlation (Pearson, Spearman's rank)
+    Plotting your own data – PCoA plots (scatter plots), boxplots, heatmaps
+    
 
-Keep posted about new developments by following me on Twitter.
+By nature every dataset is different from each other and therefore, we cannot come up with a "universal" analysis are to all datasets. Instead, base of these examples we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize the biological meaning of it.
+
+
+
+
+
+
+
+
+
+
+
+
+Supporting links:
+
+
+
+
+
+
+Developers
+
+Josue L. Castro-Mejia (Postdoc)
+
+
+
+
+
+
+
