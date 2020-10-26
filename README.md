@@ -3,7 +3,7 @@
 # Introduction
 
 MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses. 
-We think  that with this repository we can provide the minimun set of tools needed to start and explore microbiome datasets within BSc and MSc projects at FOOD-KU and collaborators. The key features of MILAF are:
+We think  that with this repository we can provide the minimun/basic set of tools needed to start and explore microbiome datasets within BSc and MSc projects at FOOD-KU and collaborators. The key features of MILAF are:
 
     Alpha-Diversity analysis – observed species, Shannon index, Chao1 (incl. t-test, Kruskal-Wallis)
     Beta-diversity analysis – Phylogenetic and non-phylogenetic | weighted and unweighted distances (incl. ANOSIM, ADONIS, PERMANOVA, db-RDA)
@@ -14,6 +14,19 @@ We think  that with this repository we can provide the minimun set of tools need
 By nature every dataset is different from each other and therefore, we cannot come up with a "universal" analysis are to all datasets. Instead, base of these examples we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize the biological meaning of it.
 
 
+# Datasets
+
+
+
+
+# Analyses
+
+
+
+
+# Supporting links:
+https://mb3is.megx.net/gustame
+https://academic.oup.com/femsec/article/90/3/543/536864
 
 
 
@@ -22,18 +35,14 @@ By nature every dataset is different from each other and therefore, we cannot co
 
 
 
-
-
-Supporting links:
-
-
-
-
-
-
-Developers
+# Developers
 
 Josue L. Castro-Mejia (Postdoc)
+Yan Hui (PhD Student)
+Rasmus R. Jakobsen (PhD Student)
+Yichang Zhang (PhD Student)
+Lukasz Krych (Associated Professor)
+Dennis S. Nielsen (Professor)
 
 
 
