@@ -1,6 +1,6 @@
-### Microbiome_Lab_at_FOOD-KU (MILAF)
+# Microbiome_Lab_at_FOOD-KU (MILAF)
 
-Introduction
+#Introduction
 
 MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses. 
 We think  that with this repository we can provide the minimun set of tools needed to start and explore microbiome datasets within BSc and MSc projects at FOOD-KU and collaborators. The key features of MILAF are:
