@@ -11,7 +11,7 @@ We think  that with this repository we can provide the minimun/basic set of tool
     Plotting your own data – PCoA plots (scatter plots), boxplots, heatmaps
     
 
-By nature every dataset is different from each other and therefore, we cannot come up with a "universal" analysis are to all datasets. Instead, base of these examples we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize the biological meaning of it.
+By nature every dataset is different and therefore, we cannot come up with an "universal" analysis are to all datasets. Instead, based of these examples we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
 
 
 # Datasets
@@ -37,12 +37,13 @@ https://academic.oup.com/femsec/article/90/3/543/536864
 
 # Developers
 
-Josue L. Castro-Mejia (Postdoc)
-Yan Hui (PhD Student)
-Rasmus R. Jakobsen (PhD Student)
-Yichang Zhang (PhD Student)
-Lukasz Krych (Associated Professor)
-Dennis S. Nielsen (Professor)
+    Josue L. Castro-Mejia (Postdoc)         – jcame@food.ku.dk 
+    Yan Hui (PhD Student)                   –
+    Rasmus R. Jakobsen (PhD Student)        –
+    Yichang Zhang (PhD Student)             –  
+    Lukasz Krych (Associated Professor)     – krych@food.ku.dk 
+    Dennis S. Nielsen (Professor)           –
+    
 
 
 
