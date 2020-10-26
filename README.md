@@ -38,7 +38,7 @@ https://academic.oup.com/femsec/article/90/3/543/536864
 
 # Developers
 
-   Josue L. Castro-Mejia (Postdoc)         – jcame@food.ku.dk 
+   Josue L. Castro-M. (Postdoc)         – jcame@food.ku.dk 
    
    Yan Hui (PhD Student)                   – huiyan@food.ku.dk
    
