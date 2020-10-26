@@ -41,7 +41,7 @@ https://academic.oup.com/femsec/article/90/3/543/536864
 
 # Developers
 
-   Josue L. Castro-M. (Postdoc)         – jcame@food.ku.dk 
+   Josue L. Castro-M. (Postdoc)            – jcame@food.ku.dk 
    
    Yan Hui (PhD Student)                   – huiyan@food.ku.dk
    
@@ -49,7 +49,7 @@ https://academic.oup.com/femsec/article/90/3/543/536864
    
    Yichang Zhang (PhD Student)             – yichang@food.ku.dk
    
-   Lukasz Krych (Associated Professor)     – krych@food.ku.dk 
+   Lukasz Krych (Associate Professor)      – krych@food.ku.dk 
    
    Dennis S. Nielsen (Professor)           – dn@food.ku.dk
     
