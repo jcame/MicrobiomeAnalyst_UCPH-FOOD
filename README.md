@@ -25,8 +25,9 @@ By nature every dataset is different and therefore, we cannot come up with an "u
 
 
 # Supporting links:
-#https://mb3is.megx.net/gustame
-#https://academic.oup.com/femsec/article/90/3/543/536864
+https://mb3is.megx.net/gustame
+
+https://academic.oup.com/femsec/article/90/3/543/536864
 
 
 
