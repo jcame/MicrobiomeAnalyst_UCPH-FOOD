@@ -18,10 +18,16 @@ There are a bunch of multivariate tools (a.k.a Machine Learning approaches) to c
 By nature every dataset is different and therefore, we cannot come up with an "universal" analysis to all datasets. Instead, with this workflow we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
 
 
-# Datasets
+# Example Dataset
+
+In this example, a zOTU table, metadata (e.g. treatments and samples info) and taxonomy are provided.
 
 
 
+
+
+You can open the files with Excel if you want, up to you, but please do not modify anything :-)
+The data was collected from a mice study that was subjected to XXXXX
 
 # Analyses
 
