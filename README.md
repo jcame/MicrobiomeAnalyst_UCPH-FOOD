@@ -1,20 +1,20 @@
-# Microbiome_Lab_at_FOOD-KU (MILAF)
+# Basic of Microbiome Analysis at KU-FOOD (BAC-FOOD)
 
 # Introduction
 
-MILAF is a respository that contains multiple examples of microbiome data (previously published by FOOD-KU microbiome geeks) and analyses. 
-We think  that with this repository we can provide the minimun/basic set of tools needed to start and explore microbiome datasets within BSc and MSc projects at FOOD-KU and collaborators. The key features of MILAF are:
+BAC-FOOD is a respository that contains a general workflow of microbiome analysis (it does not include handling of DNA/RNA sequences, but rather what to do with an abundance table(. 
+We think that with this repository we can provide the minimun/basic set of tools needed to start and explore microbiome datasets within BSc and MSc projects at KU-FOOD and other departments, where computational microbiology is not the main focus. The key features of BAC-FOOD are:
 
-    Alpha-Diversity analysis – observed species, Shannon index, Chao1 (incl. t-test, Kruskal-Wallis)
+    Summarizing Microbiome Data (e.g. zOTU level and/or species level, rarefying for sequencing depth).
     
-    Beta-diversity analysis – Phylogenetic and non-phylogenetic | weighted and unweighted distances (incl. ANOSIM, ADONIS, PERMANOVA, db-RDA)
+    Alpha-Diversity analysis (Observed Species, Shannon and Simpson indexes, ANOVA, Kruskal-Wallis, etc.). 
     
-    Variable selection – Multiple t-test, multiple Kruskal-Wallis, Linear Discriminant Analysis (LDA), univariate correlation (Pearson, Spearman's rank)
+    Beta-diversity analysis (Weighted and unweighted distances, and analyses based on ANOSIM, ADONIS, db-RDA [distance-based Redundancy Anaysis])
     
-    Plotting your own data – PCoA plots (scatter plots), boxplots, heatmaps
-    
+    Variable selection (Multiple t-test, multiple Kruskal-Wallis and univariate correlation (Pearson, Spearman's rank)
+            There are a bunch of multivariate tools (a.k.a machine learning or AI) to carry out feature selection (e.g. PLS-DA, RandomForest, Support Vector Machine, etc), but          this is not the main focus of this repository       
 
-By nature every dataset is different and therefore, we cannot come up with an "universal" analysis are to all datasets. Instead, based of these examples we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
+By nature every dataset is different and therefore, we cannot come up with an "universal" analysis are to all datasets. Instead, with this workflow we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
 
 
 # Datasets
