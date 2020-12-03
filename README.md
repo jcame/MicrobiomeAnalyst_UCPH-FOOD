@@ -13,9 +13,9 @@ We think that with this repository we can provide the minimun/basic set of tools
     
     Variable selection (Multiple t-test, multiple Kruskal-Wallis and univariate correlation (Pearson, Spearman's rank)
     
-    There are a bunch of multivariate tools (a.k.a machine learning or AI) to carry out feature selection (e.g. PLS-DA, RandomForest, Support Vector Machine, etc), but          this is not the main focus of this repository       
+There are a bunch of multivariate tools (a.k.a Machine Learning approaches) to carry out feature selection (e.g. PLS-DA, RandomForest, Support Vector Machine, etc.) that we often use in complex studies/datasets, but this is not the main focus of this repository. If you want to dig in into these approaches I highly recommend you to start with Exploratory Data Analysis | Chemometrics (KU-NFOB16000U).
 
-By nature every dataset is different and therefore, we cannot come up with an "universal" analysis are to all datasets. Instead, with this workflow we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
+By nature every dataset is different and therefore, we cannot come up with an "universal" analysis to all datasets. Instead, with this workflow we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
 
 
 # Datasets
@@ -40,19 +40,12 @@ https://academic.oup.com/femsec/article/90/3/543/536864
 
 
 
-# Developers
+# Maintenance
 
    Josue L. Castro-M. (Postdoc)            – jcame@food.ku.dk 
    
-   Yan Hui (PhD Student)                   – huiyan@food.ku.dk
-   
-   Rasmus R. Jakobsen (PhD Student)        – rasmus@food.ku.dk
-   
-   Yichang Zhang (PhD Student)             – yichang@food.ku.dk
-   
    Lukasz Krych (Associate Professor)      – krych@food.ku.dk 
-   
-   Dennis S. Nielsen (Professor)           – dn@food.ku.dk
+
     
 
 
