@@ -15,9 +15,9 @@ We think that with this repository we can provide the minimun/basic set of tools
     
 There are a bunch of multivariate tools (a.k.a Machine Learning approaches) to carry out feature selection (e.g. PLS-DA, RandomForest, Support Vector Machine, etc.) that we often use in complex studies/datasets, but this is not the main focus of this repository. If you want to dig in into these approaches I highly recommend you to start with Exploratory Data Analysis | Chemometrics (KU-NFOB16000U).
 
-By nature every dataset is different and therefore, I cannot come up with an "universal/standard" analysis to all datasets. Instead, with this workflow I hope you will get a glance and ideas of the different analysis (and combination of them) that you could apply to your own data in order to maxize and extract the biological meaning from it.
+By nature every dataset is different and therefore, I cannot come up with an "universal/standard" analysis to all datasets. Instead, with this workflow I hope you will get a glance and ideas of the different analysis (and combination of them) that you could apply to your own data in order to maxize the interpretation and the biological meaning of it.
 
-You should know that there are many open-source toolboxes specialized for these kind of analyses (e.g., QIIME2 (written in python3|bash), PhyloSeq (written in R), metagenomeSeq (written in R), etc.). The reason why I am not using them here, it is because I would like students to get 
+You should know that there are many open-source toolboxes specialized for these kind of analyses (e.g., QIIME2 (written in python3|bash), PhyloSeq (written in R), metagenomeSeq (written in R), etc.). However, the reason why BAC does not include them, it is because our aim is to show students how to manipulate dataframes and vectors directly with R-base. 
 
 
 # Example Dataset
