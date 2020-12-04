@@ -31,7 +31,7 @@ The data was collected from a mice study (MSc project – unpublised data), wher
 
 BETA DIVERSITY
 
-
+[Rplot.pdf](https://github.com/jcame/Microbiome-Lab-at-KU-FOOD/files/5642981/Rplot.pdf)
 
 
 # Supporting links:
