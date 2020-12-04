@@ -17,6 +17,8 @@ There are a bunch of multivariate tools (a.k.a Machine Learning approaches) to c
 
 By nature every dataset is different and therefore, I cannot come up with an "universal/standard" analysis to all datasets. Instead, with this workflow I hope you will get a glance and ideas of the different analysis (and combination of them) that you could apply to your own data in order to maxize and extract the biological meaning from it.
 
+You should know that there are many open-source toolboxes specialized for these kind of analyses (e.g., QIIME2 (written in python3|bash), PhyloSeq (written in R), metagenomeSeq (written in R), etc.). The reason why I am not using them here, it is because I would like students to get 
+
 
 # Example Dataset
 
