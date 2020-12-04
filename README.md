@@ -20,18 +20,30 @@ By nature every dataset is different and therefore, I cannot come up with an "un
 You should know that there are many open-source toolboxes specialized for these kind of analyses (e.g., QIIME2 (written in python3|bash), PhyloSeq (written in R), metagenomeSeq (written in R), etc.). However, the reason why BAC does not include them, it is because our aim is to show students how to manipulate dataframes and vectors directly with R-base. 
 
 
-# Example Dataset
+## Example Dataset
 
 In this example, a zOTU table, metadata (e.g. treatments and samples info) and taxonomy are provided.
 
 You can open the files with Excel if you want, up to you, but please do not modify anything :-)
 The data was collected from a mice study (MSc project – unpublised data), where rodents were subjected to either XXX or YYY, and fecal samples included in this example were collected at day 21, the end of the animal experiment.
 
-# Analyses
+## Analyses
 
-BETA DIVERSITY
+### BETA DIVERSITY
 
-![Rplots](https://user-images.githubusercontent.com/19221700/101170282-86a89700-363e-11eb-8190-dcfd9ba24d00.jpg)
+    library(vegan)
+    library(ggplot2)
+    library(viridis)
+    library(RColorBrewer)   # display.brewer.all()   will display RColorBrewer options
+    library(GUniFrac)
+    
+    ######Importing-Data
+    import.otu.table = read.table('zOTU_table_sintax.txt', header = T, row.names = 1)
+    import.taxonomy = read.table('sintax_taxaEt.txt', header = T)
+    cure.data = read.table('mapping_IDA_cured.txt', header = T)
+
+    
+
 
 
 
