@@ -15,21 +15,19 @@ We think that with this repository we can provide the minimun/basic set of tools
     
 There are a bunch of multivariate tools (a.k.a Machine Learning approaches) to carry out feature selection (e.g. PLS-DA, RandomForest, Support Vector Machine, etc.) that we often use in complex studies/datasets, but this is not the main focus of this repository. If you want to dig in into these approaches I highly recommend you to start with Exploratory Data Analysis | Chemometrics (KU-NFOB16000U).
 
-By nature every dataset is different and therefore, we cannot come up with an "universal" analysis to all datasets. Instead, with this workflow we hope to give you a glance of the different analysis (and combination of them) that you could apply to your data in order to maxize and extract the biological meaning from it.
+By nature every dataset is different and therefore, I cannot come up with an "universal/standard" analysis to all datasets. Instead, with this workflow I hope you will get a glance and ideas of the different analysis (and combination of them) that you could apply to your own data in order to maxize and extract the biological meaning from it.
 
 
 # Example Dataset
 
 In this example, a zOTU table, metadata (e.g. treatments and samples info) and taxonomy are provided.
 
-
-
-
-
 You can open the files with Excel if you want, up to you, but please do not modify anything :-)
-The data was collected from a mice study that was subjected to XXXXX
+The data was collected from a mice study (MSc project – unpublised data), where rodents were subjected to either XXX or YYY, and fecal samples included in this example were collected at day 21, the end of the animal experiment.
 
 # Analyses
+
+BETA DIVERSITY
 
 
 
