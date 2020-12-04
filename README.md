@@ -1,6 +1,6 @@
-#Basic of Microbiome Analysis at KU-FOOD (BAC-FOOD)
+# Basic of Microbiome Analysis at KU-FOOD (BAC-FOOD)
 
-##Introduction
+## Introduction
 
 BAC-FOOD is a respository that contains a general workflow of microbiome analysis (it does not include handling of DNA/RNA sequences, but rather what to do with an abundance table.
 We think that with this repository we can provide the minimun/basic set of tools needed to start and explore microbiome datasets within BSc and MSc projects at KU-FOOD and other departments, where computational microbiology is not the main focus. The key features of BAC-FOOD are:
