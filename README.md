@@ -34,18 +34,40 @@ The data was collected from a mice study (MSc project – unpublised data), wher
     library(vegan)
     library(ggplot2)
     library(viridis)
-    library(RColorBrewer)   # display.brewer.all()   will display RColorBrewer options
+    library(RColorBrewer)   # display.brewer.all() #will display RColorBrewer options
     library(GUniFrac)
     
-    ######Importing-Data
+    #%%%% Importing-Data
     import.otu.table = read.table('zOTU_table_sintax.txt', header = T, row.names = 1)
     import.taxonomy = read.table('sintax_taxaEt.txt', header = T)
-    cure.data = read.table('mapping_IDA_cured.txt', header = T)
-
+    cure.data = read.table('mapping_IDA_cured.txt', header = T) 
     
+    #%%%% Formnating taxonomy
+    IDkey = as.numeric(import.taxonomy$taxonomy)
+    import.taxonomy = cbind(import.taxonomy,IDkey)
+    taxonomy.key = unique(import.taxonomy[,-1])
+
+    #%%%% Summarizing at zOTU or Species level
+    XL8 = t(import.otu.table)  #%%% L8 level
+
+    OTUID = rownames(import.otu.table)
+    tmp1 = cbind(OTUID,import.otu.table)
+    tmp2 = merge(import.taxonomy, tmp1, all=FALSE)
+    tmp3 = tmp2[,-c(1:2)]
+    tmp4 = aggregate(tmp3, by=list(tmp3$IDkey), FUN=sum, na.rm=TRUE)
+    tmp5 = tmp4[,-c(1:2)]
+    IDkey = tmp4$Group.1
+    tmp6 = cbind(IDkey,tmp5)
+    tmp7 = merge(taxonomy.key , tmp6, all=FALSE)
+    row.names(tmp7) <- tmp7$taxonomy
+    tmp8 = tmp7[,-c(1:2)]
+    XL7 = t(tmp8)             #%%%% L7 level
 
 
-
+    #%%% Selecting samples and/or organizing samples according to your cure.data object | rows (samples) need to be placed in the same order
+    samples = as.vector(cure.data$SampleID)
+    XL8s = XL8[samples,]
+    XL7s = XL7[samples,]
 
 # Supporting links:
 https://mb3is.megx.net/gustame
