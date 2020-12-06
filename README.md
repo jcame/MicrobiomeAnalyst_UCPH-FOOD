@@ -29,7 +29,7 @@ The data was collected from a mice study (MSc project – unpublised data), wher
 
 ## Analyses
 
-### BETA DIVERSITY
+### Alpha- & Beta-Diversity
 
     library(vegan)
     library(ggplot2)
