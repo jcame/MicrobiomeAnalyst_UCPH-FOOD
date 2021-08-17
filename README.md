@@ -1,4 +1,4 @@
-# Basic of Microbiome Analysis at UCPH-FOOD using MicrobiomeAnalyst (Dashboard)
+# Introduction to MicrobiomeAnalyst (Dashboard)
 
 ## Introduction
 
