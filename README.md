@@ -14,7 +14,8 @@ You should know that microbiome analyses relay heavily on multivariate data appr
 MicrobiomeAnalyst has several dataset examples: https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/upload/OtuUploadView.xhtml (see the lower section: Example datasets for testing).
 
 Additionally you can also download one of our in-house datasets:
-This data was recently published in Nat.Comm.: https://www.nature.com/articles/s41467-020-15311-y.pdf
+
+The study related to this dataset was recently published in Nat.Comm.: https://www.nature.com/articles/s41467-020-15311-y.pdf
     
 
 
