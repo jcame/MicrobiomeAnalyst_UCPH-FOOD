@@ -14,9 +14,9 @@ You should know that microbiome analyses relay heavily on multivariate data appr
 MicrobiomeAnalyst has several dataset examples: https://www.microbiomeanalyst.ca/MicrobiomeAnalyst/upload/OtuUploadView.xhtml (see the lower section: Example datasets for testing).
 
 Additionally you can also download one of our in-house datasets available in this repository, e.g. 
-### zOTU_table.txt 
-### mapping_Nat.Com.txt (containing metadata) 
-### sintax_taxaEt.txt. 
+##### zOTU_table.txt 
+##### mapping_Nat.Com.txt (containing metadata) 
+##### sintax_taxaEt.txt (containing taxonomy) 
 This dataset was recently published in Nat.Comm.: https://www.nature.com/articles/s41467-020-15311-y.pdf in case you want to get more details of the story.
 
 A small tutorial (step-by-step) for Marker Data Profiling (16S rRNA) - can be found in MDP.pdf. 
