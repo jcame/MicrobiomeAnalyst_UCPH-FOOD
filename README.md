@@ -1,4 +1,4 @@
-# Introduction to MicrobiomeAnalyst (Dashboard)
+# Introduction to MicrobiomeAnalyst (Online Dashboard)
 
 ## Introduction
 
